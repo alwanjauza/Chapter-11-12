@@ -1,0 +1,14 @@
+F:\KULIAHHHH\SEMESTER 3\PBO\Tugas 5\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\bin\Debug\netcoreapp3.1\BasePlusCommissionEmployeeTest.exe
+F:\KULIAHHHH\SEMESTER 3\PBO\Tugas 5\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\bin\Debug\netcoreapp3.1\BasePlusCommissionEmployeeTest.deps.json
+F:\KULIAHHHH\SEMESTER 3\PBO\Tugas 5\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\bin\Debug\netcoreapp3.1\BasePlusCommissionEmployeeTest.runtimeconfig.json
+F:\KULIAHHHH\SEMESTER 3\PBO\Tugas 5\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\bin\Debug\netcoreapp3.1\BasePlusCommissionEmployeeTest.runtimeconfig.dev.json
+F:\KULIAHHHH\SEMESTER 3\PBO\Tugas 5\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\bin\Debug\netcoreapp3.1\BasePlusCommissionEmployeeTest.dll
+F:\KULIAHHHH\SEMESTER 3\PBO\Tugas 5\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\bin\Debug\netcoreapp3.1\BasePlusCommissionEmployeeTest.pdb
+F:\KULIAHHHH\SEMESTER 3\PBO\Tugas 5\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\obj\Debug\netcoreapp3.1\BasePlusCommissionEmployeeTest.csproj.AssemblyReference.cache
+F:\KULIAHHHH\SEMESTER 3\PBO\Tugas 5\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\obj\Debug\netcoreapp3.1\BasePlusCommissionEmployeeTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\KULIAHHHH\SEMESTER 3\PBO\Tugas 5\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\obj\Debug\netcoreapp3.1\BasePlusCommissionEmployeeTest.AssemblyInfoInputs.cache
+F:\KULIAHHHH\SEMESTER 3\PBO\Tugas 5\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\obj\Debug\netcoreapp3.1\BasePlusCommissionEmployeeTest.AssemblyInfo.cs
+F:\KULIAHHHH\SEMESTER 3\PBO\Tugas 5\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\obj\Debug\netcoreapp3.1\BasePlusCommissionEmployeeTest.csproj.CoreCompileInputs.cache
+F:\KULIAHHHH\SEMESTER 3\PBO\Tugas 5\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\obj\Debug\netcoreapp3.1\BasePlusCommissionEmployeeTest.dll
+F:\KULIAHHHH\SEMESTER 3\PBO\Tugas 5\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\obj\Debug\netcoreapp3.1\BasePlusCommissionEmployeeTest.pdb
+F:\KULIAHHHH\SEMESTER 3\PBO\Tugas 5\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\obj\Debug\netcoreapp3.1\BasePlusCommissionEmployeeTest.genruntimeconfig.cache
